@@ -2,3 +2,13 @@ html, body {
   height: 100%;
   width: 100%;
 }
+#make_nuke{
+  padding: top;
+}
+#Say{
+  height: 5%;
+}
+button {
+  all: unset;
+  cursor: pointer;
+}
