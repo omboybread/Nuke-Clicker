@@ -12,3 +12,10 @@ button {
   all: unset;
   cursor: pointer;
 }
+#miner{
+  width: 20%;
+  
+}
+#miner{
+  height: 20%;
+}
